@@ -53,7 +53,7 @@ export function Footer() {
                 <li className="pt-2 text-prexo-gold hover:text-white transition-colors">
                   <a href="mailto:kontakt@prexo-truckparts.de">kontakt@prexo-truckparts.de</a>
                 </li>
-                <li className="font-medium tracking-wide">+49 151 0000000</li>
+                <li className="font-medium tracking-wide">+49 17670179674</li>
               </ul>
             </div>
           </div>

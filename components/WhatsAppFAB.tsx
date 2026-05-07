@@ -5,7 +5,7 @@ import { motion } from 'motion/react';
 export function WhatsAppFAB() {
   return (
     <motion.a
-      href="https://wa.me/4915100000000" // Placeholder number
+      href="https://wa.me/4917670179674" // Placeholder number
       target="_blank"
       rel="noopener noreferrer"
       initial={{ scale: 0, opacity: 0 }}
